@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Clk and Reset are connected to a row of flip flops which generate a time sequence. Each output of the flipflops indicate one explicit step. Each step then connects to the corresponding segments to create the moving snake.
 
 ## How to test
 
-Explain how to use your project
+Use the Step button to make the snake move one tile
 
 ## External hardware
 
